@@ -1,0 +1,4 @@
+/backend/ @platform
+/frontend/ @web-team
+/mobile/ @mobile-team
+/infra/ @sre
